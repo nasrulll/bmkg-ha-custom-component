@@ -1,1 +1,9 @@
+bmkg-card-pro .card {
+  transition: all 0.3s ease;
+}
+
+bmkg-card-pro .region:hover {
+  background: rgba(255,255,255,0.9);
+  transform: scale(1.03);
+}
 
