@@ -1,1 +1,12 @@
+{
+  "domain": "bmkg",
+  "name": "BMKG Custom Component",
+  "version": "1.7",
+  "documentation": "https://github.com/USERNAME/bmkg-ha-custom-component",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@NasrulMuiz"],
+  "config_flow": true,
+  "iot_class": "cloud_polling"
+}
 
